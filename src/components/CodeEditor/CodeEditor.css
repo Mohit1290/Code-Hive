@@ -1,0 +1,15 @@
+.text-3xl{
+    flex: 1;
+    display: grid;
+  flex-direction: row;
+  height: 10px;
+}
+
+.parent-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.editor-container {
+  width: 50%;
+}

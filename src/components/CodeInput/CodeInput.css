@@ -1,0 +1,36 @@
+.md:w-full{
+    background-color: rgb(77, 77, 77);
+}
+.rounded-md{
+    background-color: rgb(16, 199, 199);
+}
+
+.ml-0{
+
+    display: flex;
+  align-items: center;
+  background: rgb(154, 195, 228);
+  padding: 4px 8px;
+  border: none;
+  border-radius: 50px;
+  color: #111a14;
+  font-size: 1rem;
+  margin-left: 0;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.ml-1{
+    background-color: rgb(248, 239, 240);
+}
+.border-none{
+   display: flex;
+flex-direction: row;
+
+flex: 1;
+    
+    justify-content: center;
+    align-items: center;
+}
+

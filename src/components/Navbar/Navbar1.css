@@ -1,0 +1,25 @@
+.border-1{
+ font-size: 1em;
+  padding: 0.5em 1em;
+  border-radius: 50px;
+  background-color: rgb(148, 148, 217);
+  color: rgb(238, 222, 222);
+  display: grid;
+grid-auto-flow: column;
+grid-column-gap: 10px;
+margin : 70px 5px 1px 1px ;
+}
+.mr-2{
+  background-color: rgb(238, 222, 222);
+  border-radius: 50px;
+}
+.grid-cols-2{
+    
+    margin-right: 10px; /* add space between the buttons */
+    display: flex;
+grid-auto-flow: column;
+grid-column-gap: 10px;
+margin : 70px 5px 5px 1px ;
+  
+    
+}

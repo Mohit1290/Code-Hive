@@ -1,0 +1,12 @@
+:root {
+  --font-family: "Manrope", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #5a05b6 1.84%, #da4f04 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #7904f5 -13.86%, #d15410 99.55%);
+
+  --color-bg: #98c1d9;
+  --color-footer: #031b34;
+  --color-blog: #042c54;
+  --color-text: #011020;
+  --color-subtext: #120603;
+}

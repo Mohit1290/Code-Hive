@@ -1,0 +1,23 @@
+.overflow-y-auto {
+  /* background-color: rgb(101, 193, 213); */
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+}
+.font-bold {
+  /* background-color: blanchedalmond; */
+}
+
+.output-container {
+  width: 100%;
+}
+.parent-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ml-2 {
+  /* background-color: #98c1d9; */
+  display: flexbox;
+}
